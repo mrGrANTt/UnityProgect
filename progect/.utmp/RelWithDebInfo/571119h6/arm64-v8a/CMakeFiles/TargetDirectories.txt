@@ -1,0 +1,5 @@
+B:/Unity Progect/Nowai papka/.utmp/RelWithDebInfo/571119h6/arm64-v8a/CMakeFiles/edit_cache.dir
+B:/Unity Progect/Nowai papka/.utmp/RelWithDebInfo/571119h6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+B:/Unity Progect/Nowai papka/.utmp/RelWithDebInfo/571119h6/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+B:/Unity Progect/Nowai papka/.utmp/RelWithDebInfo/571119h6/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+B:/Unity Progect/Nowai papka/.utmp/RelWithDebInfo/571119h6/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
